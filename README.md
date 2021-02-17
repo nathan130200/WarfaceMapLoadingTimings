@@ -5,8 +5,8 @@ Measure time between map loadings based on your warface logs files.
 ### Example:
 <img src="https://i.imgur.com/BlWDeVM.png" />
 
-### Requeriments (for self building):
-- .NET 5 Desktop Environment (with WPF support)
+### Requeriments:
+- .NET5 (SDK required for self building only) with Desktop Environment and WPF support
 - Warface Logs (Game.log and LogBackups folder must exists)
 
 ### Instructions
